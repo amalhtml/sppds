@@ -1,0 +1,57 @@
+
+.success{
+    padding:4px 4px; 
+    border-radius: 80px ;
+    margin: -91% auto ;
+    background-color: steelblue;
+    color: aliceblue;
+    width:227;
+    font-size: 14px;
+} 
+    
+.failed{
+    
+     padding:8px 6px;
+    border-radius: 80px ;
+    margin: -95% auto;
+    background-color: steelblue;
+    color: aliceblue;
+    width:300px;
+} 
+
+.success1{
+    padding:4px 6px;
+    border-radius: 80px ;
+    margin: -133% auto ;
+    background-color: steelblue;
+    color: aliceblue;
+    width:224;
+    font-size: 14px;
+    
+} 
+    
+.failed1{
+    
+     padding:8px 6px;
+    border-radius: 80px ;
+    margin: -133% auto;
+    background-color: steelblue;
+    color: aliceblue;
+    width:300px;
+} 
+
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
